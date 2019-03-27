@@ -1,0 +1,11 @@
+/Users/rpsoto/Desktop/lfz/FitnessApp/myApp/bin/Debug/netcoreapp2.2/myApp.deps.json
+/Users/rpsoto/Desktop/lfz/FitnessApp/myApp/bin/Debug/netcoreapp2.2/myApp.runtimeconfig.json
+/Users/rpsoto/Desktop/lfz/FitnessApp/myApp/bin/Debug/netcoreapp2.2/myApp.runtimeconfig.dev.json
+/Users/rpsoto/Desktop/lfz/FitnessApp/myApp/bin/Debug/netcoreapp2.2/myApp.dll
+/Users/rpsoto/Desktop/lfz/FitnessApp/myApp/bin/Debug/netcoreapp2.2/myApp.pdb
+/Users/rpsoto/Desktop/lfz/FitnessApp/myApp/obj/Debug/netcoreapp2.2/myApp.csprojAssemblyReference.cache
+/Users/rpsoto/Desktop/lfz/FitnessApp/myApp/obj/Debug/netcoreapp2.2/myApp.csproj.CoreCompileInputs.cache
+/Users/rpsoto/Desktop/lfz/FitnessApp/myApp/obj/Debug/netcoreapp2.2/myApp.AssemblyInfoInputs.cache
+/Users/rpsoto/Desktop/lfz/FitnessApp/myApp/obj/Debug/netcoreapp2.2/myApp.AssemblyInfo.cs
+/Users/rpsoto/Desktop/lfz/FitnessApp/myApp/obj/Debug/netcoreapp2.2/myApp.dll
+/Users/rpsoto/Desktop/lfz/FitnessApp/myApp/obj/Debug/netcoreapp2.2/myApp.pdb
