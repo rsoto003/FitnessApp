@@ -7,11 +7,11 @@ namespace myApp
         static void Main(string[] args)
         {
             //Prompt the user for minutes exercised
-            System.Console.Write("Enter how many minutes you exercised: ");
+            Console.Write("Enter how many minutes you exercised: ");
             
             string input = System.Console.ReadLine();
 
-            System.Console.Write("Mintes exercised: " + input);
+            Console.WriteLine("You have currently excercised " + input + " minutes. Good job! :)");
 
             //Add minutes exercised to total
             //Display total minutes exercised to the screen
